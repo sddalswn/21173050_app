@@ -47,8 +47,7 @@
                 android:maxLines="1"
                 android:text="순위"
                 android:textColor="#FF0000"
-                android:textSize="22sp"
-                tools:text="위" />
+                android:textSize="22sp" />
             <TextView
                 android:id="@+id/peopleCount"
                 android:layout_width="match_parent"
