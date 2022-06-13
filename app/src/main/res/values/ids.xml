@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="peopleCounts" type="id" />
+    <item name="ranks" type="id" />
+    <item name="salesAccs" type="id" />
+</resources>
